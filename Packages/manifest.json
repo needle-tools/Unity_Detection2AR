@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.needle.xr.arsimulation": "file:../../../package",
     "com.unity.animation.rigging": "0.2.7-preview",
     "com.unity.barracuda": "1.0.3",
     "com.unity.collab-proxy": "1.2.16",
